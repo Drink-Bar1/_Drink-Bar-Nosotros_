@@ -717,7 +717,7 @@ input {
     .about .about-content .about-txt {
         position: relative;
         width: 100%;
-        height: 400px;
+        height: 450px;
         margin: 0;
         opacity: 1;
         transition: none;
@@ -804,7 +804,7 @@ input {
 
     .office h3 {
         font-size: 1rem;
-        margin-left: 0;
+        margin-left: 30px;
     }
 
     .office i {
@@ -817,7 +817,12 @@ input {
 
     .office .visit {
         font-size: 1rem;
-        padding: 5px 15px;
+        padding: 0;
+        width: 80px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
 /*
